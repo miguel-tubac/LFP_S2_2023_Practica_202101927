@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------------------------------
+Producto 	 Cantidad	 Precio Unitario(Q.)	 Valor Total(Q.)	 Ubicación
+---------------------------------------------------------------------------------------------------
+Manzanas       	     200	              2.50	         500.00		BodegaA
+Peras          	      10	              3.00	          30.00		BodegaB
+Platanos       	      75	              1.75	         131.25		BodegaC
+Aguacates      	     296	              8.09	        2394.64		BodegaI
+Uvas           	     169	              3.11	         525.59		BodegaI
+Calabacines    	     189	              1.78	         336.42		BodegaY
+Coliflor       	     149	              5.11	         761.39		BodegaK
+Duraznos       	     278	              3.06	         850.68		BodegaH
+Apio           	     262	              6.84	        1792.08		BodegaK
+Naranjas       	     184	              9.18	        1689.12		BodegaY
+JudiasVerdes   	     228	              4.01	         914.28		BodegaW
+Sandias        	     191	              6.65	        1270.15		BodegaS
+Brocoli        	     152	              8.78	        1334.56		BodegaC
+Calabacitas    	     205	              5.58	        1143.90		BodegaU
+Frambuesas     	     215	              5.26	        1130.90		BodegaB
+Berenjenas     	      84	              8.15	         684.60		BodegaI
+Cebollas       	     172	              3.46	         595.12		BodegaI
+Mangos         	     225	              7.13	        1604.25		BodegaP
+Pomelos        	     288	              8.96	        2580.48		BodegaV
+Tomates        	     178	              7.54	        1342.12		BodegaW
+Moras          	     226	              5.29	        1195.54		BodegaH
+Acelgas        	     214	              1.38	         295.32		BodegaU
+Higos          	     268	              3.44	         921.92		BodegaP
+Espinacas      	     197	              8.16	        1607.52		BodegaA
+Granadas       	     179	              5.84	        1045.36		BodegaB
+Papas          	     300	              2.30	         690.00		BodegaU
+Fresas         	     134	              6.19	         829.46		BodegaW
+Pinas          	     290	              5.07	        1470.30		BodegaJ
+Pimientos      	     118	              3.63	         428.34		BodegaL

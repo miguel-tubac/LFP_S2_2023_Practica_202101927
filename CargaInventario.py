@@ -1,4 +1,3 @@
-# inventario_utils.py
 
 class Producto:
     def __init__(self, nombre, cantidad, precio_unitario, ubicacion):
